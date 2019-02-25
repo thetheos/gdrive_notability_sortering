@@ -15,13 +15,9 @@ Details
 The source folder is the folder created by Notability wich has a flat folder hierarchy:
 
 ======================
-
 -Notability
-
 ----section_name
-
 -------note/pdf_name
-
 ======================
 
 
